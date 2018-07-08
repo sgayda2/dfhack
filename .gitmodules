@@ -1,6 +1,6 @@
 [submodule "plugins/stonesense"]
 	path = plugins/stonesense
-	url = ../../DFHack/stonesense.git
+	url = ../stonesense.git
 [submodule "plugins/isoworld"]
 	path = plugins/isoworld
 	url = ../../DFHack/isoworld.git

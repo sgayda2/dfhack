@@ -14,6 +14,9 @@ build/VC2010
 #except for the real one
 !build/
 
+# the sublime files
+dfhack.sublime-*
+
 # Sphinx generated documentation
 docs/_*
 docs/html/
